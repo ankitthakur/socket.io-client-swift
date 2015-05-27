@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOSample/SocketIOSample/DetailViewController.swift"
+            timestampString = "454357331.360924"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketIOSample.DetailViewController.viewWillAppear (SocketIOSample.DetailViewController)(Swift.Bool) -&gt; ()"
+                  moduleName = "SocketIOSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitthakur/Documents/Projects/Framework/ankitthakur_git/socket.io-client-swift/SocketIOSample/SocketIOSample/DetailViewController.swift"
+                  timestampString = "454357337.51146"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "329">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketIOSample.DetailViewController.(viewWillAppear (SocketIOSample.DetailViewController) -&gt; (Swift.Bool) -&gt; ()).(closure #2)"
+                  moduleName = "SocketIOSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitthakur/Documents/Projects/Framework/ankitthakur_git/socket.io-client-swift/SocketIOSample/SocketIOSample/DetailViewController.swift"
+                  timestampString = "454357337.511771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357386.090491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "createOnAck(_:items:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketIOSample.SocketIOClient.(createOnAck in _C841852F13A27A8A0C25D7CC68737E08) (SocketIOSample.SocketIOClient)(Swift.String, items : Swift.Array&lt;Swift.AnyObject&gt;) -&gt; (timeout : Swift.UInt64, callback : @objc_block (Swift.Optional&lt;ObjectiveC.NSArray&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SocketIOSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitthakur/Documents/Projects/Framework/ankitthakur_git/socket.io-client-swift/SocketIOClientSwift/SocketIOClient.swift"
+                  timestampString = "454357386.102941"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketIOSample.SocketIOClient.((createOnAck in _C841852F13A27A8A0C25D7CC68737E08) (SocketIOSample.SocketIOClient) -&gt; (Swift.String, items : Swift.Array&lt;Swift.AnyObject&gt;) -&gt; (timeout : Swift.UInt64, callback : @objc_block (Swift.Optional&lt;ObjectiveC.NSArray&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SocketIOSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitthakur/Documents/Projects/Framework/ankitthakur_git/socket.io-client-swift/SocketIOClientSwift/SocketIOClient.swift"
+                  timestampString = "454357386.103209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357387.430578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "createOnAck(_:items:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357431.052307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "createOnAck(_:items:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357434.206416"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "createOnAck(_:items:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketIOSample.SocketIOClient.((createOnAck in _C841852F13A27A8A0C25D7CC68737E08) (SocketIOSample.SocketIOClient) -&gt; (Swift.String, items : Swift.Array&lt;Swift.AnyObject&gt;) -&gt; (timeout : Swift.UInt64, callback : @objc_block (Swift.Optional&lt;ObjectiveC.NSArray&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SocketIOSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitthakur/Documents/Projects/Framework/ankitthakur_git/socket.io-client-swift/SocketIOClientSwift/SocketIOClient.swift"
+                  timestampString = "454357434.209003"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "1015">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketIOSample.SocketIOClient.((createOnAck in _C841852F13A27A8A0C25D7CC68737E08) (SocketIOSample.SocketIOClient) -&gt; (Swift.String, items : Swift.Array&lt;Swift.AnyObject&gt;) -&gt; (timeout : Swift.UInt64, callback : @objc_block (Swift.Optional&lt;ObjectiveC.NSArray&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #2)"
+                  moduleName = "SocketIOSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitthakur/Documents/Projects/Framework/ankitthakur_git/socket.io-client-swift/SocketIOClientSwift/SocketIOClient.swift"
+                  timestampString = "454357434.209183"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357439.426337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "createOnAck(_:items:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketAckManager.swift"
+            timestampString = "454357503.334381"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "executeAck(_:items:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketAckManager.swift"
+            timestampString = "454357512.665675"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "executeAck(_:items:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357556.268434"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
+            landmarkName = "_emit(_:_:ack:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketIOClientSwift/SocketIOClient.swift"
+            timestampString = "454357557.259013"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "_emit(_:_:ack:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
